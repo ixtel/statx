@@ -11,7 +11,7 @@ Statx
 .. image:: https://img.shields.io/pypi/v/statx.svg
     :target: https://pypi.python.org/pypi/statx
 
-.. image:: https://readthedocs.org/projects/statx/badge/?version=latest
+.. .. image:: https://readthedocs.org/projects/statx/badge/?version=latest
     :target: http://user-agent.readthedocs.org
 
 
@@ -20,11 +20,11 @@ What is statx library?
 
 You might find it helpful to collect statistics about some long-running
 process. For insitance, web site crawling, copying big number of files,
-processing some big stuff. Stat class is able to::
+processing some big stuff. Stat class is for::
 
-* count things
-* display speed of change
-* collects things (collections are also counted)
+* counting things
+* displaing speed of changes
+* collecting things (collections are also counted)
 
 
 Usage Example
