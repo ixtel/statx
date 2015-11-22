@@ -5,7 +5,7 @@ ROOT = os.path.dirname(os.path.realpath(__file__))
 
 setup(
     name='statx',
-    version='0.0.1',
+    version='0.0.2',
     description='A tool to count things',
     long_description=open(os.path.join(ROOT, 'README.rst')).read(),
     packages=find_packages(exclude=['script']),
